@@ -266,6 +266,20 @@ If you have heroku install you should be able to run
 Deploy
 =======
 
+Docker
+
+1. git clone source code
+
+		$ git clone git@github.com:taironas/tinygraphs.git
+		
+2. Build
+
+		$ docker build -t tinygraphs .
+		
+3. Run
+
+		$ docker run -p 8080:8080 --name=tinygraphs tinygraphs
+
 Easy
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)

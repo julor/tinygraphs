@@ -1,0 +1,109 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "6qccqKKVnwL9ECLdP+lVzTegdwk=",
+			"path": "github.com/ajstarks/svgo",
+			"revision": "672fe547df4e49efc6db67a74391368bcb149b37",
+			"revisionTime": "2016-03-25T11:55:36Z"
+		},
+		{
+			"checksumSHA1": "y0kxA2MjBB0mme7FY24tELEElSU=",
+			"path": "github.com/taironas/route",
+			"revision": "b919c49c73f1f4f14f178921d1101ca942628122",
+			"revisionTime": "2015-03-12T08:25:41Z"
+		},
+		{
+			"checksumSHA1": "DaiMBT+Ct/8mj42N+babDEjT1dk=",
+			"path": "github.com/taironas/tinygraphs/cache",
+			"revision": "64dff00fe2aa414d7cf52bfa8c187b2552789508",
+			"revisionTime": "2015-08-30T14:30:01Z"
+		},
+		{
+			"checksumSHA1": "50bXtCuk/4HJObOLuZEd84E69tA=",
+			"path": "github.com/taironas/tinygraphs/colors",
+			"revision": "64dff00fe2aa414d7cf52bfa8c187b2552789508",
+			"revisionTime": "2015-08-30T14:30:01Z"
+		},
+		{
+			"checksumSHA1": "mlJ6EGg2CY3X9s15XSeXiNLSrAA=",
+			"path": "github.com/taironas/tinygraphs/controllers/checkerboard",
+			"revision": "64dff00fe2aa414d7cf52bfa8c187b2552789508",
+			"revisionTime": "2015-08-30T14:30:01Z"
+		},
+		{
+			"checksumSHA1": "FmRuKrjMcM0miO/8zMmvvYKqNNM=",
+			"path": "github.com/taironas/tinygraphs/controllers/isogrids",
+			"revision": "64dff00fe2aa414d7cf52bfa8c187b2552789508",
+			"revisionTime": "2015-08-30T14:30:01Z"
+		},
+		{
+			"checksumSHA1": "1MTvEe2dNBBOHZNXUwQ9JB4qS5U=",
+			"path": "github.com/taironas/tinygraphs/controllers/spaceinvaders",
+			"revision": "64dff00fe2aa414d7cf52bfa8c187b2552789508",
+			"revisionTime": "2015-08-30T14:30:01Z"
+		},
+		{
+			"checksumSHA1": "rQDSiIoeR4xTESxFfqXkJib8en0=",
+			"path": "github.com/taironas/tinygraphs/controllers/squares",
+			"revision": "64dff00fe2aa414d7cf52bfa8c187b2552789508",
+			"revisionTime": "2015-08-30T14:30:01Z"
+		},
+		{
+			"checksumSHA1": "1vw94VbUEAXntmmiki0Iek6Rl/4=",
+			"path": "github.com/taironas/tinygraphs/controllers/themes",
+			"revision": "64dff00fe2aa414d7cf52bfa8c187b2552789508",
+			"revisionTime": "2015-08-30T14:30:01Z"
+		},
+		{
+			"checksumSHA1": "kyMkn5VggSWjDUBH2rCI2VO8ZXs=",
+			"path": "github.com/taironas/tinygraphs/draw",
+			"revision": "64dff00fe2aa414d7cf52bfa8c187b2552789508",
+			"revisionTime": "2015-08-30T14:30:01Z"
+		},
+		{
+			"checksumSHA1": "R2NcrtioO1Qxm0dR2n53Kjy3HKg=",
+			"path": "github.com/taironas/tinygraphs/draw/isogrids",
+			"revision": "64dff00fe2aa414d7cf52bfa8c187b2552789508",
+			"revisionTime": "2015-08-30T14:30:01Z"
+		},
+		{
+			"checksumSHA1": "JnZbhixzc6MIrQX4Lj1EOsoVt/c=",
+			"path": "github.com/taironas/tinygraphs/draw/spaceinvaders",
+			"revision": "64dff00fe2aa414d7cf52bfa8c187b2552789508",
+			"revisionTime": "2015-08-30T14:30:01Z"
+		},
+		{
+			"checksumSHA1": "8e9rkiTAPDTwszab5+SiwgSZRsQ=",
+			"path": "github.com/taironas/tinygraphs/draw/squares",
+			"revision": "64dff00fe2aa414d7cf52bfa8c187b2552789508",
+			"revisionTime": "2015-08-30T14:30:01Z"
+		},
+		{
+			"checksumSHA1": "05EAdC5uyMBTpXmFnghoxVbXHQ8=",
+			"path": "github.com/taironas/tinygraphs/extract",
+			"revision": "64dff00fe2aa414d7cf52bfa8c187b2552789508",
+			"revisionTime": "2015-08-30T14:30:01Z"
+		},
+		{
+			"checksumSHA1": "OAyVjXW7nPidoSkyUWyiEqTFWOo=",
+			"path": "github.com/taironas/tinygraphs/format",
+			"revision": "64dff00fe2aa414d7cf52bfa8c187b2552789508",
+			"revisionTime": "2015-08-30T14:30:01Z"
+		},
+		{
+			"checksumSHA1": "GkK9NHRMCy7nzB6KFP6UWK963u0=",
+			"path": "github.com/taironas/tinygraphs/testing",
+			"revision": "64dff00fe2aa414d7cf52bfa8c187b2552789508",
+			"revisionTime": "2015-08-30T14:30:01Z"
+		},
+		{
+			"checksumSHA1": "wvZ2MHoyV1zUbab3DFNkHB7Yw1Q=",
+			"path": "github.com/taironas/tinygraphs/write",
+			"revision": "64dff00fe2aa414d7cf52bfa8c187b2552789508",
+			"revisionTime": "2015-08-30T14:30:01Z"
+		}
+	],
+	"rootPath": "github.com/julor/tinygraphs"
+}

@@ -4,6 +4,7 @@ import (
 	"flag"
 	"log"
 	"net/http"
+	"os"
 
 	"github.com/taironas/route"
 	"github.com/taironas/tinygraphs/controllers/checkerboard"
@@ -50,8 +51,8 @@ func main() {
 
 	r.AddStaticResource(root)
 
-	log.Println("Listening on 8080")
-	err := http.ListenAndServe(":8080", r)
+	log.Println("Listening on " + os.Getenv("PORT"))
+	err := http.ListenAndServe(":"+os.Getenv("PORT"), r)
 	if err != nil {
 		log.Fatal("ListenAndServe:", err)
 	}

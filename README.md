@@ -278,7 +278,7 @@ Docker
 		
 3. Run
 
-		$ docker run -p 8080:8080 --name=tinygraphs tinygraphs
+		$ docker run --env PORT=8080 -p 8080:8080 --name=tinygraphs tinygraphs
 
 Easy
 
